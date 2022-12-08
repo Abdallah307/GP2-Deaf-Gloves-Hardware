@@ -12,7 +12,7 @@ byte msg [2];
 
 
 const char* ssid = "kasda-C38861";
-const char* password = "Abdallah307";
+const char* password = "Your password";
 
 //Your Domain name with URL path or IP address with path
 String serverName = "http://192.168.1.15:3000/api/convert";
